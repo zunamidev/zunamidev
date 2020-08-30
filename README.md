@@ -11,7 +11,6 @@ I like experimenting with new technologies, building small projects. ✨
 <summary>About me</summary>
 <br>
 I'm 15(currently) years old
-![Zunamis's github stats](https://github-readme-stats.vercel.app/api?username=zunamidev&show_icons=true&theme=radical)
 
 </details>
 
@@ -30,4 +29,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Zunami's github stats](https://github-readme-stats.vercel.app/api?username=zunamidev&show_icons=true)
+![Zunamis's github stats](https://github-readme-stats.vercel.app/api?username=zunamidev&show_icons=true&theme=radical)
