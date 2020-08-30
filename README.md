@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Javascript
-- ⚡ Fun fact: I am a selftaught developer
 
 
 ![Zunami's github stats](https://github-readme-stats.vercel.app/api?username=zunamidev&show_icons=true)
